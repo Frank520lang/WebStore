@@ -1,0 +1,3 @@
+1.接收来自jsp页面的method方法;
+2.一个servlet的基本类统一接收servlet请求;
+3.对应的servlet只需继承baseservlet
